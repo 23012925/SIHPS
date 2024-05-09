@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:08-05-2024
-## Register Number:212223230208
-## Name:singamala venkata sai kumar reddy
+# Date:09-05-2024
+## Register Number:212223040072
+## Name:JANARTHANAN K
 ## Problem Title
 E-Waste Facility Locator
 ## Problem Description
